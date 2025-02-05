@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Tetiana!
 
-🔎 Data Analyst with a strong foundation in finance and data science, passionate about leveraging data-driven insights to solve business problems.
+🔎 Data Analyst with a strong foundation in finance and data analystics, passionate about leveraging data-driven insights to solve business problems.
 
 - 👩‍💻 Techs & Tools:
 
@@ -17,7 +17,9 @@ _Others:_ Excel, Alteryx, Git
 - 📚 My Background:
 
 🇫🇷 Applied MSc in Data Analytics – Data ScienceTech Institute, Paris (2023-2024)
+
 🇺🇦 Audit Associate – PwC (2019-2022)
+
 🇺🇦 Bachelor's & Master's in Finance – Ivan Franko National University of Lviv (2014-2020)
 
 
