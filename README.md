@@ -9,8 +9,11 @@
 
 ## 📚 Background  
 🇫🇷 **Applied MSc in Data Analytics** at **Data ScienceTech Institute** (2023-2024)
+
 🇫🇷 **Data Analyst** at **Solutionec** (2023-2024)  
+
 🇺🇦 **Audit Associate** at **PwC Ukraine** (2019-2022)  
+
 🇺🇦 **Bachelor's and Master's Degree in Finance** at **Ivan Franko National University of Lviv** (2014-2020)  
 
 ## 🏆 Projects  
