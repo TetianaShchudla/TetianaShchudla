@@ -18,6 +18,12 @@
 📂 Professional Portfolio - [Portfolio Link](https://tetianashchudla.github.io/Portfolio/)
 
 
+### 📊 3PL Fulfilment Center Performance Dashboard
+- **Description:** Tracked and evaluated fulfillment center performance by visualizing key metrics—on-time delivery, order cycle time, accuracy rates, and costs—using Power BI to optimize efficiency and identify issues.
+- **Tools:** Power BI  
+- **Link:** [View Project](https://github.com/TetianaShchudla/Fulfilment-Center-Analysis-in-Power-BI)
+
+
 ### 📊 Consumer Healthcare Analysis  
 - **Description:** Analyzed product performance across various markets, comparing sales between eCommerce and physical stores, and identified trends over time using Power BI.  
 - **Tools:** Power BI  
